@@ -41,7 +41,7 @@ U 1 1 5FF2D4DF
 P 5900 5750
 F 0 "U6" H 4700 5950 50  0000 L CNN
 F 1 "NRF24L01_Breakout" H 4250 5750 50  0000 L CNN
-F 2 "RF_Module:nRF24L01_Breakout" H 6050 6350 50  0001 L CIN
+F 2 "weather_station:NRF24-horizontal-pin-socket" H 6050 6350 50  0001 L CIN
 F 3 "http://www.nordicsemi.com/eng/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf" H 5900 5650 50  0001 C CNN
 	1    5900 5750
 	1    0    0    -1  
